@@ -2,15 +2,14 @@
 
 WebDAV PUT Method using cURL
 
-run using:
-
+#run using:
+<pre>
 git clone https://github.com/lucifeerko/WebDAV-PUT-Method
 
 cd WebDAV-PUT-Method
 
 sh curl.sh
-
-Done
+</pre>
 
 
 List of sites:
